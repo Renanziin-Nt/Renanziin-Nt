@@ -22,7 +22,7 @@
 
 <br>
 
-<div style="display: inline_block">
+<div style="display: inline">
 
 <picture>
   <source
