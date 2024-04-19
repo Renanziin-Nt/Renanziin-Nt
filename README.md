@@ -36,7 +36,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Renanziin-Nt&show_icons=true" />
 </picture>
-  <img height=195 width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanziin-Nt&layout=compact&theme=react">
+  <img height=195 width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanziin-Nt&layout=compact&theme=react">
 
 </div>
 
