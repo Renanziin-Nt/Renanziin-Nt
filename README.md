@@ -22,7 +22,7 @@
 
 <br>
 
-<div style="display: inline">
+<div style="display: flex">
 
 <picture>
   <source
@@ -35,7 +35,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Renanziin-Nt&show_icons=true" />
 </picture>
-  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanziin-Nt&layout=compact&theme=react">
+  <img height=295 width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanziin-Nt&layout=compact&theme=react">
 
 </div>
 
